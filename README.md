@@ -1,4 +1,4 @@
- # Deepanshu Github
+# Heyyyloo0
 
 ## About Me
 
@@ -31,30 +31,30 @@ Check out my GitHub repositories for my projects: [GitHub](https://github.com/De
 
 #### Soft Skills
 
-- Team player
-- Highly motivated
-- Leadership
+- :handshake: Team player
+- :rocket: Highly motivated
+- :crown: Leadership
 
 #### Technical Skills
 
-- HTML
-- CSS
-- JavaScript
-- jQuery
-- PHP
-- SQL, MySQL
-- React (learning)
-- Ajax
-- jQuery plugins
-- C
-- DSA
-- C++, Java
-- Great problem-solving skill
+- :computer: HTML
+- :art: CSS
+- :sparkles: JavaScript
+- :heavy_check_mark: jQuery
+- :gear: PHP
+- :floppy_disk: SQL, MySQL
+- :atom: React (learning)
+- :arrows_counterclockwise: Ajax
+- :package: jQuery plugins
+- :diamond_shape_with_a_dot_inside: C
+- :triangular_ruler: DSA
+- :computer_mouse: C++, Java
+- :bulb: Great problem-solving skill
 
 ### My Hobbies and Interests
 
-- I love mountain hiking and cycling in my free time.
-- I like to play board games with other people.
+- :mountain: I love mountain hiking and cycling in my free time.
+- :game_die: I like to play board games with other people.
 
 ## Contact Details
 
