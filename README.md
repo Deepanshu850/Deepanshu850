@@ -1,27 +1,66 @@
-# Hey there! Welcome to my creative GitHub profile! :wave:
+ # Deepanshu Github
 
 ## About Me
 
-I am Deepanshu, a passionate frontend developer with a love for creating beautiful and intuitive user interfaces.
+Hi there! I'm Deepanshu, a 2022 BTech CSE graduate. I've solved 150+ DSA questions on GFG & LeetCode. Currently, I work as a PHP developer at W3 Care, Jaipur, while learning React to expand my skills. Passionate about technology, I enjoy creating intuitive frontend experiences. Travel and photography are my interests outside of work. Let's connect and explore tech possibilities!
 
-I have [1] years of experience in developing frontend applications, including web and mobile interfaces. My passion lies in creating visually appealing designs that not only look great but also provide an exceptional user experience. I am proficient in C, C++, Java, HTML, CSS, JavaScript, jQuery, and various frontend frameworks like ReactJS.
+## Resume
 
-## Skills
+### My Employment History
 
-Here are some of my core skills as a frontend developer:
+#### PHP Developer at W3 Care Technology
+Jan 2023 - March 2023
+admin=dipanshu23kumar@gmail.com, pass=Dgpampgt@123
 
-- :computer: Frontend Development
-- :art: User Interface Design
-- :iphone: Responsive Design
-- :globe_with_meridians: Web Development
-- :heavy_check_mark: JavaScript
-- :heavy_check_mark: HTML/CSS
-- :heavy_check_mark: React/Redux
-- :heavy_check_mark: TypeScript
-- :heavy_check_mark: Next.js
+I have developed a dynamic website with a PHP backend that incorporates various features to enhance user experience and streamline administrative tasks. The website is built using the popular AdminLTE template, offering a clean and modern user interface for both front-end users and administrators.
 
-## Contact
+[Website link](https://training.host4india.in/deepanshu_assessment_1/)
 
-If you have any questions or would like to connect with me, you can reach me at [dipanshu23kumar@gmail.com](mailto:dipanshu23kumar@gmail.com).
+### My Project
 
-## Thank you for visiting my GitHub profile! :smile:
+Check out my GitHub repositories for my projects: [GitHub](https://github.com/Deepanshu850?tab=repositories)
+
+### My Education
+
+- B.Tech, Satyug Darshan Technical Campus, Faridabad
+  October 2018 - July 2022
+- Highschool, Govt Boys Ser Sec School, Faridabad
+  October 2016 - July 2018
+
+### My Skills
+
+#### Soft Skills
+
+- Team player
+- Highly motivated
+- Leadership
+
+#### Technical Skills
+
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- PHP
+- SQL, MySQL
+- React (learning)
+- Ajax
+- jQuery plugins
+- C
+- DSA
+- C++, Java
+- Great problem-solving skill
+
+### My Hobbies and Interests
+
+- I love mountain hiking and cycling in my free time.
+- I like to play board games with other people.
+
+## Contact Details
+
+- Name: Deepanshu
+- Address: Faridabad, Sec_28
+- Phone number: +919599840723
+- E-mail: dipanshu23kumar@gmail.com
+
+© 2023 - Deepanshu
