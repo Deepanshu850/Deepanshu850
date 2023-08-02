@@ -8,50 +8,41 @@
       background-color: #f0f0f0;
       color: #333;
     }
-
     h1 {
       text-align: center;
       font-size: 48px;
       color: #007bff;
     }
-
-    h3 {
+ h3 {
       text-align: center;
       font-size: 32px;
       color: #333;
     }
-
-    p {
+  p {
       text-align: center;
       font-size: 18px;
       margin-bottom: 20px;
     }
-
-    a {
+ a {
       color: #007bff;
     }
-
-    .skills {
+.skills {
       text-align: center;
       font-size: 18px;
       font-weight: bold;
       margin-bottom: 20px;
     }
-
-    .contact {
+ .contact {
       text-align: center;
       font-size: 18px;
-      margin-bottom: 20px;
-    }
-
-    .thank-you {
-      text-align: center;
+      margin-bottom: 20px;  }
+ .thank-you {
+    text-align: center;
       font-size: 24px;
       color: #007bff;
       margin-top: 40px;
     }
-
-    .icon {
+   .icon {
       margin-right: 10px;
     }
   </style>
