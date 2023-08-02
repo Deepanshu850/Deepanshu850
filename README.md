@@ -1,4 +1,4 @@
-# Heyyyloo0
+ # Deepanshu Resume
 
 ## About Me
 
@@ -29,12 +29,6 @@ Check out my GitHub repositories for my projects: [GitHub](https://github.com/De
 
 ### My Skills
 
-#### Soft Skills
-
-- :handshake: Team player
-- :rocket: Highly motivated
-- :crown: Leadership
-
 #### Technical Skills
 
 - :computer: HTML
@@ -50,6 +44,12 @@ Check out my GitHub repositories for my projects: [GitHub](https://github.com/De
 - :triangular_ruler: DSA
 - :computer_mouse: C++, Java
 - :bulb: Great problem-solving skill
+
+#### Soft Skills
+
+- :handshake: Team player
+- :rocket: Highly motivated
+- :crown: Leadership
 
 ### My Hobbies and Interests
 
