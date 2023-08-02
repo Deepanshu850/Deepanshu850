@@ -1,16 +1,5 @@
- # Deepanshu Resume
-
-## About Me
-
-Hi there! I'm Deepanshu, a 2022 BTech CSE graduate. I've solved 150+ DSA questions on GFG & LeetCode. Currently, I work as a PHP developer at W3 Care, Jaipur, while learning React to expand my skills. Passionate about technology, I enjoy creating intuitive frontend experiences. Travel and photography are my interests outside of work. Let's connect and explore tech possibilities!
-
- [Website link](https://training.host4india.in/deepanshu_assessment_1/)
-
-### My Project
-
-Check out my GitHub repositories for my projects: [GitHub](https://github.com/Deepanshu850?tab=repositories)
-
  
+
 ### My Skills
 
 #### Technical Skills
@@ -28,6 +17,15 @@ Check out my GitHub repositories for my projects: [GitHub](https://github.com/De
 - :triangular_ruler: DSA
 - :computer_mouse: C++, Java
 - :bulb: Great problem-solving skill
+
+- 
+ [Website link](https://training.host4india.in/deepanshu_assessment_1/)
+
+### My Project
+
+Check out my GitHub repositories for my projects: [GitHub](https://github.com/Deepanshu850?tab=repositories)
+
+ 
 
 #### Soft Skills
 
