@@ -1,39 +1,20 @@
- 
- [Website link](https://training.host4india.in/deepanshu_assessment_1/)
+# Deepanshu's Portfolio
 
- 
-### My Skills
+## My Skills
 
-#### Technical Skills
+### Technical Skills
 
-- :computer: HTML
-- :art: CSS
-- :sparkles: JavaScript
-- :heavy_check_mark: jQuery
-- :gear: PHP
-- :floppy_disk: SQL, MySQL
-- :atom: React (learning)
-- :arrows_counterclockwise: Ajax
-- :package: jQuery plugins
-- :diamond_shape_with_a_dot_inside: C
-- :triangular_ruler: DSA
-- :computer_mouse: C++, Java
-- :bulb: Great problem-solving skill
+- 💻 HTML              - 🎨 CSS             - ✨ JavaScript        - ✅ jQuery
+- ⚙️ PHP               - 💾 SQL, MySQL       - ⚛️ React (learning)  - ↩️ Ajax
+- 📦 jQuery plugins    - 💎 C                - 📏 DSA               - 🖱️ C++, Java
 
-- 
- 
+### Soft Skills
 
-### My Project
+- 🤝 Team player       - 🚀 Highly motivated - 👑 Leadership
+
+## My Project
 
 Check out my GitHub repositories for my projects: [GitHub](https://github.com/Deepanshu850?tab=repositories)
-
- 
-
-#### Soft Skills
-
-- :handshake: Team player
-- :rocket: Highly motivated
-- :crown: Leadership
 
 ## Contact Details
 
