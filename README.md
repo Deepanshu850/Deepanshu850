@@ -2,11 +2,10 @@
 # Deepanshu's GitHub
 ## My Resume
 
-Check out my resume: [resume](https://deepanshuresume07.w3spaces.com/)
+Check out my resume: [resume](https://deepanshuresume07.w3spaces.com/)..
 ## My Skills
 
 ### Technical Skills
-@@ -12,9 +14,7 @@
 
 - 🤝 Team player       - 🚀 Highly motivated - 👑 Leadership
 
